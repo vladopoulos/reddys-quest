@@ -66,6 +66,32 @@ An execution timeout is also used to prevent the game from waiting indefinitely 
 * `io.StringIO`
 * `contextlib`
 
+## Screenshots
+
+### Introduction
+
+![Introduction](screenshots/intro.png)
+
+### Dialogue
+
+![Dialogue](screenshots/dialogue.png)
+
+### Puzzle
+
+![Puzzle](screenshots/question.png)
+
+### Incorrect Answer
+
+![Incorrect Answer](screenshots/wrong.png)
+
+### Successful Solution
+
+![Successful Solution](screenshots/success.png)
+
+### Final Screen
+
+![Final Screen](screenshots/win.png)
+
 ## Installation
 
 ### Requirements
@@ -95,6 +121,12 @@ python ReddysQuest.py
 * **Tab** — Insert indentation
 * **Arrow keys** — Move the cursor
 * **Mouse wheel** — Scroll through code and output
+
+## Thesis Documentation
+
+The full thesis document is available here:
+
+[Read the thesis](docs/LADOPOULOS_THESIS.pdf)
 
 ## Project Context
 
