@@ -10,6 +10,12 @@ The player progresses through a series of programming puzzles by writing and exe
 
 The game is designed mainly for beginners and students aged 12–16.
 
+## Download
+
+A playable Windows version is available in the latest GitHub Release:
+
+[Download Reddy's Quest](https://github.com/vladopoulos/reddys-quest/releases/latest)
+
 ## Features
 
 * 8 interactive Python programming puzzles
